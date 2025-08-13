@@ -1,5 +1,3 @@
-# alura-store-analisis
-"Análisis comparativo de tiendas Alura Store"
 # Análisis de Tiendas Alura Store
 
 ## Descripción del Proyecto
@@ -9,7 +7,7 @@ Análisis comparativo de 4 tiendas para identificar la de menor rendimiento usan
 - Satisfacción de clientes
 - Costos logísticos
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tallonson69/alura-store-analisis/blob/main/Alura_Store_Analisis.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tallonson69/alura-store-analisis/blob/main/desafío1.ipynb)
 
 ## 📋 Métricas Clave
 | Indicador       | Tienda 1 | Tienda 2 | Tienda 3 | Tienda 4 |
@@ -18,14 +16,13 @@ Análisis comparativo de 4 tiendas para identificar la de menor rendimiento usan
 | Calificación   | 3.1     | 3.0     | 2.9     | 3.0     |
 | Costo envío   | $6,137  | $5,948  | $5,851  | $5,531  |
 
-## Recomendación
+## 🎯 Recomendación
 **Vender Tienda 4** porque:
 - 10% menos ventas que la líder
 - Menor diversificación de productos
 - Sin ventajas en otros indicadores
 
-## ⚙Cómo Usar
-1. Haz clic en el botón "Open in Colab"
-2. Ejecuta todas las celdas (Runtime > Run all)
-3. Explora los gráficos 
-
+## ⚙️ Cómo Usar
+1. Haz clic en el botón "Open in Colab" arriba
+2. Ejecuta todas las celdas (`Runtime` > `Run all`)
+3. Explora los gráficos
