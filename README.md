@@ -1,8 +1,8 @@
 # alura-store-analisis
 "Análisis comparativo de tiendas Alura Store"
-# 📊 Análisis de Tiendas Alura Store
+# Análisis de Tiendas Alura Store
 
-## 🔍 Descripción del Proyecto
+## Descripción del Proyecto
 Análisis comparativo de 4 tiendas para identificar la de menor rendimiento usando:
 - Ventas totales
 - Desempeño por categoría
@@ -18,18 +18,14 @@ Análisis comparativo de 4 tiendas para identificar la de menor rendimiento usan
 | Calificación   | 3.1     | 3.0     | 2.9     | 3.0     |
 | Costo envío   | $6,137  | $5,948  | $5,851  | $5,531  |
 
-## 🎯 Recomendación
+## Recomendación
 **Vender Tienda 4** porque:
 - 10% menos ventas que la líder
 - Menor diversificación de productos
 - Sin ventajas en otros indicadores
 
-## ⚙️ Cómo Usar
+## ⚙Cómo Usar
 1. Haz clic en el botón "Open in Colab"
 2. Ejecuta todas las celdas (Runtime > Run all)
 3. Explora los gráficos interactivos
 
-## 📂 Estructura
-alura-store-analysis/
-├── Alura_Store_Analysis.ipynb # Notebook principal
-├── README.md # Este archivo
