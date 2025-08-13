@@ -9,7 +9,7 @@ Análisis comparativo de 4 tiendas para identificar la de menor rendimiento usan
 - Satisfacción de clientes
 - Costos logísticos
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tallonson69/alura-store-analysis/blob/main/Alura_Store_Analysis.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tallonson69/alura-store-analysis/blob/main/Alura_Store_Analisis.ipynb)
 
 ## 📋 Métricas Clave
 | Indicador       | Tienda 1 | Tienda 2 | Tienda 3 | Tienda 4 |
@@ -27,5 +27,5 @@ Análisis comparativo de 4 tiendas para identificar la de menor rendimiento usan
 ## ⚙Cómo Usar
 1. Haz clic en el botón "Open in Colab"
 2. Ejecuta todas las celdas (Runtime > Run all)
-3. Explora los gráficos interactivos
+3. Explora los gráficos 
 
